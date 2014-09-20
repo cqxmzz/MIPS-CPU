@@ -1,0 +1,18 @@
+Top_module: top
+Top_file: top.v
+Src_list:
+	alu.v
+	aluCtr.v
+	SE.v
+	register.v
+	memory.v
+	pcBuf.v
+	ifidBuf.v
+	idexBuf.v
+	exmmBuf.v
+	mmwbBuf.v
+	controller.v
+	CPU.v
+	top.v
+	l1cache.v
+	l2cache.v
